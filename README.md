@@ -43,8 +43,6 @@ To get started with the User Management project and set up the database using ph
 
 9. Access the project in your web browser and start managing users and products.
 
-By following these steps, you will have your User Management project connected to a database created and managed through phpMyAdmin.
-
 ## Usage
 
 - Navigate to the user management dashboard.
